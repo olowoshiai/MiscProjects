@@ -1,0 +1,9 @@
+c:\users\aisha\documents\visual studio 2017\Projects\OlowoshileAishat_MvcMovie\OlowoshileAishat_MvcMovie\bin\Debug\netcoreapp1.1\OlowoshileAishat_MvcMovie.deps.json
+c:\users\aisha\documents\visual studio 2017\Projects\OlowoshileAishat_MvcMovie\OlowoshileAishat_MvcMovie\bin\Debug\netcoreapp1.1\OlowoshileAishat_MvcMovie.runtimeconfig.json
+c:\users\aisha\documents\visual studio 2017\Projects\OlowoshileAishat_MvcMovie\OlowoshileAishat_MvcMovie\bin\Debug\netcoreapp1.1\OlowoshileAishat_MvcMovie.runtimeconfig.dev.json
+c:\users\aisha\documents\visual studio 2017\Projects\OlowoshileAishat_MvcMovie\OlowoshileAishat_MvcMovie\bin\Debug\netcoreapp1.1\OlowoshileAishat_MvcMovie.dll
+c:\users\aisha\documents\visual studio 2017\Projects\OlowoshileAishat_MvcMovie\OlowoshileAishat_MvcMovie\bin\Debug\netcoreapp1.1\OlowoshileAishat_MvcMovie.pdb
+c:\users\aisha\documents\visual studio 2017\Projects\OlowoshileAishat_MvcMovie\OlowoshileAishat_MvcMovie\obj\Debug\netcoreapp1.1\OlowoshileAishat_MvcMovie.csprojResolveAssemblyReference.cache
+c:\users\aisha\documents\visual studio 2017\Projects\OlowoshileAishat_MvcMovie\OlowoshileAishat_MvcMovie\obj\Debug\netcoreapp1.1\OlowoshileAishat_MvcMovie.AssemblyInfo.cs
+c:\users\aisha\documents\visual studio 2017\Projects\OlowoshileAishat_MvcMovie\OlowoshileAishat_MvcMovie\obj\Debug\netcoreapp1.1\OlowoshileAishat_MvcMovie.dll
+c:\users\aisha\documents\visual studio 2017\Projects\OlowoshileAishat_MvcMovie\OlowoshileAishat_MvcMovie\obj\Debug\netcoreapp1.1\OlowoshileAishat_MvcMovie.pdb
